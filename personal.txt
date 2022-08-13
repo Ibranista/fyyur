@@ -1,0 +1,6 @@
+refer your zad bakery app, for routes. 
+store all the routes together in one file.
+or separate them if you have time.
+
+// don't forget to add edit and delete functionality on the Artist Controller
+// Submit and hopefully you'll be given a week to correct your mistakes.
